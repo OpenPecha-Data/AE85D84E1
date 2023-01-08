@@ -1,0 +1,27 @@
+segment_sources:
+  I6BE655F6:
+    type: origin_type
+    relation: translation
+    base: 91D9
+    lang: en
+  IDF8BDDBC:
+    type: origin_type
+    relation: translation
+    base: 7A5D
+    lang: bo
+segment_pairs:
+  22767db1e0524a34b809a43ea20d7f14:
+    I6BE655F6: b0bbf9dc5db5443a8a9d95ff4439ca57
+    IDF8BDDBC: 09a34627d3454e4c8374785d9f877317
+  801ddfa544b047c694a02c0df9afbf94:
+    I6BE655F6: c3bab5244cc6411f95b70f0d8360a5fb
+    IDF8BDDBC: e5e7ed3c1ca04a0c8e436275caee3572
+  31d9fea8ad654dbeb2d0406ed66068ab:
+    I6BE655F6: 0cc8a3c870a040129442bc8fa622e534
+    IDF8BDDBC: 5d2388f1d4414e7a9061c0b72c7378a5
+  f3a5c6bf0e564c269b82e79538e52c96:
+    I6BE655F6: 5b1fdf14214f467aadda4a002b4c7ee7
+    IDF8BDDBC: ae42c3148452490e96fe264773249ac6
+  348bc1332aa8493897c239c5654ec894:
+    I6BE655F6: 6b4710857f53436f9fb2517188594da8
+    IDF8BDDBC: 8ecbe7932cac4712bc5d2dab7f2e83fc
